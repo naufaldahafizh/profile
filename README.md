@@ -72,7 +72,7 @@ Proyek-proyek ini dirancang untuk mencerminkan tantangan nyata di industri, deng
 
 ---
 
-### 9. 📈 Time Series Forecasting: Demand & Revenue
+### 9. Time Series Forecasting: Demand & Revenue
 - **Deskripsi**: Prediksi permintaan produk atau pendapatan e-commerce menggunakan metode time series.
 - **Tools**: ARIMA, Facebook Prophet, Random Forest
 - **Fokus**: Trend analysis, forecasting, visualisasi prediksi
