@@ -84,6 +84,12 @@ Proyek-proyek ini dirancang untuk mencerminkan tantangan nyata di industri, deng
 - Unit testing dengan Pytest untuk menjamin stabilitas setiap modul.
 - Struktur kode OOP modular untuk data loader, preprocessor, model, dan evaluator.
 
+### 11. AutoML Mini-Framework
+- Melakukan preprocessing data
+- Mencoba beberapa model machine learning
+- Melakukan evaluasi otomatis (cross-validation)
+- Menyimpan model terbaik & laporan evaluasi
+
 ## 🛠️ Skills & Tech Stack
 `Python` • `Pandas` • `scikit-learn` • `Streamlit` • `MLflow` • `Airflow` • `PySpark` • `Geopandas`  
 `NLP` • `Time Series Forecasting` • `MLOps` • `Deep Learning (PINNs)` • `EDA` • `Visualization`
